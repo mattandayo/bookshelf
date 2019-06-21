@@ -1,0 +1,4 @@
+.env*
+config.ru
+vendor
+public
